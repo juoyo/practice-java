@@ -1,4 +1,4 @@
-import sun.awt.windows.WPrinterJob;
+package com.apache.leetcode;
 
 import java.util.HashMap;
 import java.util.Map;
