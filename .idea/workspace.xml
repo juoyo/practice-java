@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d23cc2bd-0d38-4532-8377-183682cd8016" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cZCYDM4sXrkJmiG9XqeejSqxTR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\A_Java\Project\practice-java\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.LC20">
+    <configuration name="LC20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LC20" />
+      <module name="practice-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LC206" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LC206" />
+      <module name="practice-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LC24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LC24" />
+      <module name="practice-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LC24_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LC24_2" />
+      <module name="practice-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LC20" />
+        <item itemvalue="Application.LC24_2" />
+        <item itemvalue="Application.LC24" />
+        <item itemvalue="Application.LC206" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d23cc2bd-0d38-4532-8377-183682cd8016" name="Default Changelist" comment="" />
+      <created>1590726773165</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590726773165</updated>
+      <workItem from="1590726777853" duration="1990000" />
+      <workItem from="1590822576587" duration="824000" />
+      <workItem from="1592456131080" duration="4862000" />
+      <workItem from="1592798419699" duration="5105000" />
+      <workItem from="1592826556277" duration="30000" />
+      <workItem from="1592827006031" duration="5063000" />
+      <workItem from="1593233378625" duration="2574000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="341" y="91" key="#Project_Structure" timestamp="1590726786920">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="341" y="91" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1590726786920" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1593235345394">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593235345394" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1593235345393">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593235345393" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1593235345393">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593235345393" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1593235345393">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593235345393" />
+    <state width="1493" height="291" key="GridCell.Tab.1.bottom" timestamp="1593234911072">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="291" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593234911072" />
+    <state width="1493" height="291" key="GridCell.Tab.1.center" timestamp="1593234911072">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="291" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1593234911072" />
+    <state width="1493" height="291" key="GridCell.Tab.1.left" timestamp="1593234911071">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="291" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1593234911071" />
+    <state width="1493" height="291" key="GridCell.Tab.1.right" timestamp="1593234911072">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="291" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1593234911072" />
+    <state x="512" y="114" key="SettingsEditor" timestamp="1590850548756">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="512" y="114" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1590850548756" />
+    <state x="425" y="279" width="715" height="305" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1590726962496">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="279" width="715" height="305" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1536.824@0.0.1536.824" timestamp="1590726962496" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LC206.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LC24.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LC24.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LC24_2.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LC20.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
