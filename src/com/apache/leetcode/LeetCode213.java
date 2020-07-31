@@ -1,3 +1,5 @@
+package com.apache.leetcode;
+
 import static java.lang.Math.max;
 class Solution213 {
     public int rob1(int[] nums) {

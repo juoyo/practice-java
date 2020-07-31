@@ -1,13 +1,14 @@
-import java.util.ArrayList;
-import java.util.List;
+package com.apache.leetcode;
 
-//class ListNode {
-//    int val;
-//    ListNode next;
-//    ListNode(int x) { val = x; }
-//}
+import java.util.*;
 
-public class LC206_2 {
+class ListNode {
+    int val;
+    ListNode next;
+    ListNode(int x) { val = x; }
+}
+
+public class LC206 {
     public static void main(String[] args) {
         ListNode head = new ListNode(1);
         ListNode node2 = new ListNode(2);
@@ -17,14 +18,14 @@ public class LC206_2 {
         node2.next = node3;
         node3.next = node4;
 
-        Solution206_2 s = new Solution206_2();
+        Solution206 s = new Solution206();
         System.out.println(s.reverseList(head));
 
     }
 }
 
 
-class Solution206_2 {
+class Solution206 {
     public ListNode reverseList(ListNode head) {
         if (head == null) {
             return head;

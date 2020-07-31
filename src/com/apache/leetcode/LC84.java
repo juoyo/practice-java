@@ -1,3 +1,5 @@
+package com.apache.leetcode;
+
 import java.lang.Math;
 
 public class LC84 {

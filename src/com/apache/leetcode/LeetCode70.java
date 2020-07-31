@@ -1,3 +1,5 @@
+package com.apache.leetcode;
+
 class Solution70 {
     public int climbStairs(int n) {
         if (n <= 2) {

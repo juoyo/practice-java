@@ -1,3 +1,5 @@
+package com.apache.leetcode;
+
 class Solution343 {
     public int integerBreak(int n) {
         if (n == 2) {

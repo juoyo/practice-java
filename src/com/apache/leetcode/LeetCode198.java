@@ -1,3 +1,5 @@
+package com.apache.leetcode;
+
 import static java.lang.Math.max;
 
 class Solution198 {

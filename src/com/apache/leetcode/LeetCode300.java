@@ -1,3 +1,5 @@
+package com.apache.leetcode;
+
 class Solution300 {
     public int lengthOfLIS(int[] nums) {
         // dp[n] = max{1, dp[i] + 1 | Si < Sn & i < n}

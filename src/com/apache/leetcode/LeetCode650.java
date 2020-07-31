@@ -1,3 +1,5 @@
+package com.apache.leetcode;
+
 class Solution650 {
     public int minSteps(int n) {
         if (n == 1) {
